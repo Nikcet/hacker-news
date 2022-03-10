@@ -1,0 +1,13 @@
+.news {
+  background-color: white;
+  min-width: min-content;
+  max-width: fit-content;
+  margin: 10px auto;
+  padding: .7rem 1rem !important;
+  box-shadow: 1px 2px 8px #999;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
